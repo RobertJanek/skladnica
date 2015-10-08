@@ -7,7 +7,8 @@
 
 int main()
 {
-	std::cout << "jak to wypchn¹æ na GitHuba";
+	std::cout << "jak to wypchn¹æ na GitHuba" << std::endl;
+	std::cout << "testy trwaj¹"<<std::endl;
 	return 0;
 }
 
